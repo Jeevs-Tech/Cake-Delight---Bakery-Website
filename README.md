@@ -24,6 +24,6 @@ How to Use:
 
 Clone the repository.
 Open jeevs.html in a browser.
-Explore the cake varieties and enjoy the bakery's story.
+
 
 
